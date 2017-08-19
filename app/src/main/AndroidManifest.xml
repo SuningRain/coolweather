@@ -3,6 +3,7 @@
     package="com.twoexample.coolweather">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:name="org.litepal.LitePalApplication"
